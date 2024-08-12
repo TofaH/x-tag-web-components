@@ -1,0 +1,14 @@
+{
+  "name": "x-tag-web-components",
+  "version": "1.0.0",
+  "description": "x-tag playground for web components",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "x-tag": "^2.0.3-beta"
+  }
+}
