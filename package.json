@@ -1,14 +1,26 @@
 {
   "name": "x-tag-web-components",
   "version": "1.0.0",
-  "description": "x-tag playground for web components",
+  "description": "custom web components using x-tag",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TofaH/x-tag-web-components.git"
+  },
+  "keywords": [
+    "x-tag",
+    "web-component"
+  ],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TofaH/x-tag-web-components/issues"
+  },
+  "homepage": "https://github.com/TofaH/x-tag-web-components#readme",
   "dependencies": {
-    "x-tag": "^1.5.11"
+    "x-tag": "^2.0.3-beta"
   }
 }
